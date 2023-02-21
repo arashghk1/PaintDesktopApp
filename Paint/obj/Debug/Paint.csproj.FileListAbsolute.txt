@@ -1,0 +1,31 @@
+C:\Users\SaeeD\source\repos\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\SaeeD\source\repos\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\SaeeD\source\repos\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\SaeeD\source\repos\Paint\Paint\obj\Debug\Paint.csproj.SuggestedBindingRedirects.cache
+C:\Users\SaeeD\source\repos\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\SaeeD\source\repos\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+C:\Users\SaeeD\source\repos\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\SaeeD\source\repos\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\SaeeD\source\repos\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\SaeeD\source\repos\Paint\Paint\obj\Debug\Paint.Paint_MainForm.resources
+D:\SaeeD Master TovseGar\Project\Paint\Paint\bin\Debug\Paint.exe.config
+D:\SaeeD Master TovseGar\Project\Paint\Paint\bin\Debug\Paint.exe
+D:\SaeeD Master TovseGar\Project\Paint\Paint\bin\Debug\Paint.pdb
+D:\SaeeD Master TovseGar\Project\Paint\Paint\obj\Debug\Paint.csproj.SuggestedBindingRedirects.cache
+D:\SaeeD Master TovseGar\Project\Paint\Paint\obj\Debug\Paint.Paint_MainForm.resources
+D:\SaeeD Master TovseGar\Project\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\SaeeD Master TovseGar\Project\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+D:\SaeeD Master TovseGar\Project\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+D:\SaeeD Master TovseGar\Project\Paint\Paint\obj\Debug\Paint.exe
+D:\SaeeD Master TovseGar\Project\Paint\Paint\obj\Debug\Paint.pdb
+F:\Programming\Programming Outside School\GitHub Projects\New folder\برنامه نقاشی\Paint\bin\Debug\Paint.exe.config
+F:\Programming\Programming Outside School\GitHub Projects\New folder\برنامه نقاشی\Paint\bin\Debug\Paint.exe
+F:\Programming\Programming Outside School\GitHub Projects\New folder\برنامه نقاشی\Paint\bin\Debug\Paint.pdb
+F:\Programming\Programming Outside School\GitHub Projects\New folder\برنامه نقاشی\Paint\obj\Debug\Paint.csproj.AssemblyReference.cache
+F:\Programming\Programming Outside School\GitHub Projects\New folder\برنامه نقاشی\Paint\obj\Debug\Paint.csproj.SuggestedBindingRedirects.cache
+F:\Programming\Programming Outside School\GitHub Projects\New folder\برنامه نقاشی\Paint\obj\Debug\Paint.Paint_MainForm.resources
+F:\Programming\Programming Outside School\GitHub Projects\New folder\برنامه نقاشی\Paint\obj\Debug\Paint.Properties.Resources.resources
+F:\Programming\Programming Outside School\GitHub Projects\New folder\برنامه نقاشی\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+F:\Programming\Programming Outside School\GitHub Projects\New folder\برنامه نقاشی\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+F:\Programming\Programming Outside School\GitHub Projects\New folder\برنامه نقاشی\Paint\obj\Debug\Paint.exe
+F:\Programming\Programming Outside School\GitHub Projects\New folder\برنامه نقاشی\Paint\obj\Debug\Paint.pdb
